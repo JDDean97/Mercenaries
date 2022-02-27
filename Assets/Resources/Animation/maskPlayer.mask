@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: maskPlayer
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/handTarget.L
+    m_Weight: 1
+  - m_Path: Armature/handTarget.L/handTarget.L_end
+    m_Weight: 1
+  - m_Path: Armature/handTarget.R
+    m_Weight: 1
+  - m_Path: Armature/handTarget.R/handTarget.R_end
+    m_Weight: 1
+  - m_Path: Armature/pelvis
+    m_Weight: 0
+  - m_Path: Armature/pelvis/torso
+    m_Weight: 1
+  - m_Path: Armature/pelvis/torso/Neck
+    m_Weight: 1
+  - m_Path: Armature/pelvis/torso/Neck/head
+    m_Weight: 1
+  - m_Path: Armature/pelvis/torso/Neck/head/head_end
+    m_Weight: 1
+  - m_Path: Armature/pelvis/torso/Shoulder.L
+    m_Weight: 1
+  - m_Path: Armature/pelvis/torso/Shoulder.L/upArm.L
+    m_Weight: 1
+  - m_Path: Armature/pelvis/torso/Shoulder.L/upArm.L/loArm.L
+    m_Weight: 1
+  - m_Path: Armature/pelvis/torso/Shoulder.L/upArm.L/loArm.L/hand.L
+    m_Weight: 1
+  - m_Path: Armature/pelvis/torso/Shoulder.L/upArm.L/loArm.L/hand.L/Fingers.L
+    m_Weight: 1
+  - m_Path: Armature/pelvis/torso/Shoulder.L/upArm.L/loArm.L/hand.L/Fingers.L/Fingers.L_end
+    m_Weight: 1
+  - m_Path: Armature/pelvis/torso/Shoulder.R
+    m_Weight: 1
+  - m_Path: Armature/pelvis/torso/Shoulder.R/upArm.R
+    m_Weight: 1
+  - m_Path: Armature/pelvis/torso/Shoulder.R/upArm.R/loArm.R
+    m_Weight: 1
+  - m_Path: Armature/pelvis/torso/Shoulder.R/upArm.R/loArm.R/hand.R
+    m_Weight: 1
+  - m_Path: Armature/pelvis/torso/Shoulder.R/upArm.R/loArm.R/hand.R/Fingers.R
+    m_Weight: 1
+  - m_Path: Armature/pelvis/torso/Shoulder.R/upArm.R/loArm.R/hand.R/Fingers.R/Fingers.R_end
+    m_Weight: 1
+  - m_Path: Armature/pelvis/upLeg.L
+    m_Weight: 0
+  - m_Path: Armature/pelvis/upLeg.L/loLeg.L
+    m_Weight: 0
+  - m_Path: Armature/pelvis/upLeg.L/loLeg.L/foot.L
+    m_Weight: 0
+  - m_Path: Armature/pelvis/upLeg.L/loLeg.L/foot.L/foot.L_end
+    m_Weight: 0
+  - m_Path: Armature/pelvis/upLeg.R
+    m_Weight: 0
+  - m_Path: Armature/pelvis/upLeg.R/loLeg.R
+    m_Weight: 0
+  - m_Path: Armature/pelvis/upLeg.R/loLeg.R/foot.R
+    m_Weight: 0
+  - m_Path: Armature/pelvis/upLeg.R/loLeg.R/foot.R/foot.R_end
+    m_Weight: 0
+  - m_Path: Armature/PoleArm.L
+    m_Weight: 1
+  - m_Path: Armature/PoleArm.L/PoleArm.L_end
+    m_Weight: 1
+  - m_Path: Armature/PoleArm.R
+    m_Weight: 1
+  - m_Path: Armature/PoleArm.R/PoleArm.R_end
+    m_Weight: 1
+  - m_Path: Armature/PoleLeg.L
+    m_Weight: 1
+  - m_Path: Armature/PoleLeg.L/PoleLeg.L_end
+    m_Weight: 1
+  - m_Path: Armature/PoleLeg.R
+    m_Weight: 1
+  - m_Path: Armature/PoleLeg.R/PoleLeg.R_end
+    m_Weight: 1
+  - m_Path: Armature/target.L
+    m_Weight: 1
+  - m_Path: Armature/target.L/target.L_end
+    m_Weight: 1
+  - m_Path: Armature/target.R
+    m_Weight: 1
+  - m_Path: Armature/target.R/target.R_end
+    m_Weight: 1
+  - m_Path: Head
+    m_Weight: 1
+  - m_Path: Torso
+    m_Weight: 1
